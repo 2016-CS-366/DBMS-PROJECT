@@ -1,0 +1,12 @@
+C:\DBPROJECT\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+C:\DBPROJECT\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+C:\DBPROJECT\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\DBPROJECT\ProjectA\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache
+C:\DBPROJECT\ProjectA\ProjectA\obj\Debug\ProjectA.Form1.resources
+C:\DBPROJECT\ProjectA\ProjectA\obj\Debug\ProjectA.Properties.Resources.resources
+C:\DBPROJECT\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.GenerateResource.Cache
+C:\DBPROJECT\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+C:\DBPROJECT\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+C:\DBPROJECT\ProjectA\ProjectA\obj\Debug\ProjectA.AddStudent.resources
+C:\DBPROJECT\ProjectA\ProjectA\obj\Debug\ProjectA.Project.resources
+C:\DBPROJECT\ProjectA\ProjectA\obj\Debug\ProjectA.Advisor.resources
